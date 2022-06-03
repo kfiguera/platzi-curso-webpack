@@ -1,0 +1,27 @@
+{
+  "name": "platzi-curso-webpack",
+  "version": "1.0.0",
+  "description": "Repositorio del Curso de Webpack de Platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kfiguera/platzi-curso-webpack.git"
+  },
+  "keywords": [
+    "platzi",
+    "webpack"
+  ],
+  "author": "Kevin Figuera <kevinalejandro3@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/kfiguera/platzi-curso-webpack/issues"
+  },
+  "homepage": "https://github.com/kfiguera/platzi-curso-webpack#readme",
+  "devDependencies": {
+    "webpack": "^5.73.0",
+    "webpack-cli": "^4.9.2"
+  }
+}
